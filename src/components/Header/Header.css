@@ -1,0 +1,50 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(32, 29, 29);
+    color: white;
+
+
+}
+
+.logo {
+    margin-left: 30px;
+    font-size: 30px;
+
+}
+
+.menu-items {
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.item {
+    margin-right: 20px;
+    font-size: 20px;
+
+}
+
+.last {
+    margin-right: 50px;
+}
+
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: white !important;
+    border: 3px solid transparent;
+
+}
+
+a:focus,
+a:hover {
+    border-bottom: 3px solid rgb(92, 17, 17);
+
+}
