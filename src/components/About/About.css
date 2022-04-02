@@ -1,0 +1,102 @@
+.about {
+    background-color: rgb(41, 37, 37);
+    display: flex;
+
+
+}
+
+.about-me {
+    color: #DDC2B9;
+    margin-left: 50px;
+    font-size: 50px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.about-info {
+    color: white;
+    margin-left: 50px;
+    width: 400px;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    margin-left: 80px;
+}
+
+.skills-title {
+    color: #DDC2B9;
+    margin-right: 50px;
+    font-size: 50px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.front-back {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.devicon-bootstrap-plain,
+.devicon-css3-plain,
+.devicon-html5-plain,
+.devicon-javascript-plain,
+.devicon-react-original,
+.devicon-typescript-plain,
+.devicon-nodejs-plain,
+.devicon-mongodb-plain,
+.devicon-express-original,
+.devicon-python-plain,
+.devicon-mysql-plain,
+.devicon-postgresql-plain,
+.devicon-github-original,
+.devicon-linkedin-plain,
+.devicon-twitter-original {
+    font-size: 50px;
+    color: white;
+
+}
+
+.devicon-bootstrap-plain:hover,
+.devicon-css3-plain:hover,
+.devicon-html5-plain:hover,
+.devicon-javascript-plain:hover,
+.devicon-react-original:hover,
+.devicon-typescript-plain:hover,
+.devicon-nodejs-plain:hover,
+.devicon-mongodb-plain:hover,
+.devicon-express-original:hover,
+.devicon-python-plain:hover,
+.devicon-mysql-plain:hover,
+.devicon-postgresql-plain:hover,
+.devicon-github-original:hover,
+.devicon-linkedin-plain:hover,
+.devicon-twitter-original:hover {
+    font-size: 50px;
+    color: #DDC2B9;
+
+}
+
+
+.development {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.social-icons {
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.social {
+    margin-right: 20px;
+
+
+}
+
+.set1 {
+    margin-bottom: 20px;
+}
