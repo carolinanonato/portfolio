@@ -4,7 +4,7 @@ import './Header.css'
 export default function Header() {
     return (
         <div className="navigation">
-            <div className="logo">Carolina Nonato</div>
+            <div className="logo">CN</div>
 
             <div className="menu">
                 <ul className="menu-items">

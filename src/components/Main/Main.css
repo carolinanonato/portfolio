@@ -1,0 +1,39 @@
+.main {
+    background-color: rgb(32, 29, 29);
+}
+
+h1 {
+    font-size: 110px;
+    color: #DDC2B9;
+    padding-top: 30px;
+    margin-left: 50px;
+    font-weight: 400;
+}
+
+.sub-heading {
+    font-size: 40px;
+    color: white;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+
+button {
+    background-color: rgb(32, 29, 29);
+    color: #DDC2B9;
+    font-size: 18px;
+    font-weight: bold;
+    border-color: #DDC2B9;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 60px;
+}
+
+button:hover {
+    background-color: #DDC2B9;
+
+    color: black;
+}
