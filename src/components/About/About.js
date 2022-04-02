@@ -1,8 +1,5 @@
 import React from 'react'
 import './About.css'
-import github from '../../assets/img/github.png'
-import linkedin from '../../assets/img/linkedin.png'
-import twitter from '../../assets/img/twitter.png'
 
 export default function About() {
     return (
