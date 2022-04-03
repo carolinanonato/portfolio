@@ -21,13 +21,17 @@ export default function About() {
                         <div className="frontend">
                             <h3 className='development'>Frontend Development</h3>
                             <div className="set1">
-                                <i className="devicon-html5-plain social"></i>
-                                <i className="devicon-css3-plain social"></i>
-                                <i className="devicon-javascript-plain social"></i> <br></br>
+
+                                <div class="myDIV"> <i className="devicon-html5-plain "></i></div>
+                                {/* <div class="hide">HTML5</div> */}
+                                <div class="myDIV"> <i className="devicon-css3-plain "></i></div>
+                                {/* <div class="hide">CSS3</div> */}
+                                <div class="myDIV"> <i className="devicon-javascript-plain "></i></div>
+                                {/* <div class="hide">JavaScript</div> */}
                             </div>
-                            <i className="devicon-typescript-plain social"></i>
-                            <i className="devicon-react-original social"></i>
-                            <i className="devicon-bootstrap-plain social"></i>
+                            <i className="devicon-typescript-plain "></i>
+                            <i className="devicon-react-original"></i>
+                            <i className="devicon-bootstrap-plain "></i>
                         </div>
                         <div className="backend">
                             <h3 className='development'>Backend Development</h3>

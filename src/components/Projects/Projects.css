@@ -1,9 +1,11 @@
 .project-section {
     background-color: rgb(32, 29, 29);
+
 }
 
 .project-cards {
     width: 400px;
+
 
 }
 
@@ -33,6 +35,7 @@
 .project-description {
     color: white;
     margin-left: 50px;
+    height: 120px;
 
 }
 

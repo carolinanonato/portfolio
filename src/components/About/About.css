@@ -99,4 +99,16 @@
 
 .set1 {
     margin-bottom: 20px;
+    display: flex;
+    gap: 10px;
 }
+
+/* .hide {
+    display: none;
+}
+
+.myDIV:hover+.hide {
+    display: inline-block;
+    color: white;
+    vertical-align: bottom;
+} */
