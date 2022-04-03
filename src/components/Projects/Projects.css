@@ -36,7 +36,12 @@
 
 }
 
-button {
-    margin-top: 30px;
+.project-cards {
+    display: flex;
+    gap: 60px;
+}
 
+.project-btn {
+    margin-bottom: 80px;
+    margin-top: 40px;
 }
