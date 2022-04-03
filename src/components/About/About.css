@@ -135,3 +135,67 @@
     margin-right: 10px;
     margin-left: 14px;
 }
+
+@media only screen and (max-width: 1050px) {
+    .about-me {
+        font-size: 40px;
+        width: 300px;
+
+    }
+
+    .about-info {
+        font-size: 14px;
+        width: 300px;
+    }
+
+    .info {
+        width: 350px;
+    }
+
+    .skills-title {
+        font-size: 40px;
+
+    }
+
+    .devicon-bootstrap-plain,
+    .devicon-css3-plain,
+    .devicon-html5-plain,
+    .devicon-javascript-plain,
+    .devicon-react-original,
+    .devicon-typescript-plain,
+    .devicon-nodejs-plain,
+    .devicon-mongodb-plain,
+    .devicon-express-original,
+    .devicon-python-plain,
+    .devicon-mysql-plain,
+    .devicon-postgresql-plain,
+    .devicon-github-original,
+    .devicon-linkedin-plain,
+    .devicon-twitter-original {
+        font-size: 30px;
+        color: white;
+
+    }
+
+    .devicon-bootstrap-plain:hover,
+    .devicon-css3-plain:hover,
+    .devicon-html5-plain:hover,
+    .devicon-javascript-plain:hover,
+    .devicon-react-original:hover,
+    .devicon-typescript-plain:hover,
+    .devicon-nodejs-plain:hover,
+    .devicon-mongodb-plain:hover,
+    .devicon-express-original:hover,
+    .devicon-python-plain:hover,
+    .devicon-mysql-plain:hover,
+    .devicon-postgresql-plain:hover,
+    .devicon-github-original:hover,
+    .devicon-linkedin-plain:hover,
+    .devicon-twitter-original:hover {
+        font-size: 30px;
+        color: #DDC2B9;
+
+    }
+
+
+}
