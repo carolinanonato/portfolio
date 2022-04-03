@@ -7,7 +7,13 @@ export default function About() {
             <div className="about">
                 <div className="info">
                     <h1 className='about-me'>About me</h1>
-                    <p className='about-info'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum sint iste labore doloribus maxime, reiciendis veritatis odit, laborum culpa nobis a numquam perspiciatis quae aliquid ipsum eaque omnis voluptate aut. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi laboriosam ducimus officia ullam in. Aspernatur incidunt a laborum error, dolor aliquid atque voluptate voluptates. Et libero ducimus consectetur eveniet eaque?</p>
+                    <p className='about-info'>Hi, I’m Carolina! Or Carol, if you prefer.
+
+                        I’m a creative web developer passionate about learning and building digital experiences. I’m currently focusing on the MERN stack, but still exploring other technologies and frameworks.</p>
+                    <br></br>
+
+                    <p className='about-info'>I have a Bachelor in Communications along with 10 years experience in Social Media, Data Analysis and Content Creation. Advocating for diversity in tech is something that's very important to me and if you're looking for a developer to add to your team, I'd love to hear from you!</p>
+
                     <div className="social-icons">
                         <a href="https://github.com/carolinanonato" target="_blank"><i className="devicon-github-original social"></i></a>
                         <a href="https://www.linkedin.com/in/carolina-nonato/" target="_blank"><i className="devicon-linkedin-plain social"></i></a>
@@ -53,6 +59,6 @@ export default function About() {
                     </div>
                 </div>
             </div >
-        </section>
+        </section >
     )
 }
