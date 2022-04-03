@@ -103,12 +103,34 @@
     gap: 10px;
 }
 
-/* .hide {
-    display: none;
+.htmltext {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+    font-size: 10px;
+    font-weight: bold;
+
+
 }
 
-.myDIV:hover+.hide {
-    display: inline-block;
-    color: white;
-    vertical-align: bottom;
-} */
+.skillicon .htmltext {
+    visibility: hidden;
+
+    background-color: #DDC2B9;
+    color: black;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 10px;
+    position: absolute;
+    z-index: 1;
+    border: none
+}
+
+.skillicon:hover .htmltext {
+    visibility: visible;
+}
+
+.css {
+    margin-right: 10px;
+    margin-left: 14px;
+}
