@@ -22,30 +22,33 @@ export default function About() {
                             <h3 className='development'>Frontend Development</h3>
                             <div className="set1">
 
-                                <div class="myDIV"> <i className="devicon-html5-plain "></i></div>
-                                {/* <div class="hide">HTML5</div> */}
-                                <div class="myDIV"> <i className="devicon-css3-plain "></i></div>
-                                {/* <div class="hide">CSS3</div> */}
-                                <div class="myDIV"> <i className="devicon-javascript-plain "></i></div>
-                                {/* <div class="hide">JavaScript</div> */}
+                                <i className="devicon-html5-plain skillicon"> <span class="htmltext">HTML5</span></i>
+
+
+                                <i className="devicon-css3-plain skillicon css">
+                                    <span class="htmltext">CSS3</span>
+                                </i>
+                                <i className="devicon-javascript-plain skillicon">
+                                    <span class="htmltext">JavaScript</span>
+                                </i>
                             </div>
-                            <i className="devicon-typescript-plain "></i>
-                            <i className="devicon-react-original"></i>
-                            <i className="devicon-bootstrap-plain "></i>
+                            <i className="devicon-typescript-plain skillicon"> <span class="htmltext">TypeScript</span></i>
+                            <i className="devicon-react-original skillicon">      <span class="htmltext">React</span></i>
+                            <i className="devicon-bootstrap-plain skillicon ">      <span class="htmltext">Bootstrap</span></i>
                         </div>
                         <div className="backend">
                             <h3 className='development'>Backend Development</h3>
                             <div className="set1">
-                                <i className="devicon-nodejs-plain social"></i>
+                                <i className="devicon-nodejs-plain skillicon"> <span class="htmltext">Node.js</span></i>
 
-                                <i className="devicon-mongodb-plain social"></i>
+                                <i className="devicon-mongodb-plain skillicon"> <span class="htmltext">MongoDB</span></i>
 
-                                <i className="devicon-express-original social"></i> <br></br>
+                                <i className="devicon-express-original skillicon"> <span class="htmltext">Express</span></i> <br></br>
                             </div>
 
-                            <i className="devicon-python-plain social "></i>
-                            <i className="devicon-mysql-plain social"></i>
-                            <i className="devicon-postgresql-plain social"></i>
+                            <i className="devicon-python-plain  skillicon "> <span class="htmltext">Python</span></i>
+                            <i className="devicon-mysql-plain skillicon"> <span class="htmltext">MySQL</span></i>
+                            <i className="devicon-postgresql-plain skillicon"> <span class="htmltext">PostgreSQL</span></i>
                         </div>
                     </div>
                 </div>
