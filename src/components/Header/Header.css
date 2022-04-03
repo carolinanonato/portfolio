@@ -43,7 +43,7 @@ a {
 
 }
 
-a:focus,
-a:hover {
+.item:focus,
+.item:hover {
     border-bottom: 3px solid #DDC2B9
 }
