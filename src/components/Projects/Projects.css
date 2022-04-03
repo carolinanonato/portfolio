@@ -1,0 +1,42 @@
+.project-section {
+    background-color: rgb(32, 29, 29);
+}
+
+.project-cards {
+    width: 400px;
+
+}
+
+.project-title {
+    color: #DDC2B9;
+    margin-left: 50px;
+    font-size: 50px;
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+
+.project-name {
+    color: #DDC2B9;
+    margin-left: 50px;
+    margin-bottom: 20px;
+
+}
+
+.project-image {
+    width: 350px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    box-shadow: #DDC2B9 0px 2px 5px;
+
+}
+
+.project-description {
+    color: white;
+    margin-left: 50px;
+
+}
+
+button {
+    margin-top: 30px;
+
+}
