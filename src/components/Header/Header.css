@@ -6,6 +6,8 @@
     padding-bottom: 30px;
     background-color: rgb(32, 29, 29);
     color: white;
+    position: fixed;
+    width: 100%;
 
 
 }
