@@ -27,7 +27,7 @@ export default function Projects() {
                     <div className="card2">
                         <h3 className='project-name'>Headphone Store</h3>
                         <img className="project-image" src={headphone} alt="headphone" />
-                        <p className='project-description'>Fresh food is the best thing for dogs! They became more cheerful, their fur shinier and they hardly get sick. In this project I created a simple app to calculate the servings of meat, vegetables and carbohydrates your dog needs daily.
+                        <p className='project-description'>This is a product sales page (in this case, a headphone) that I made to study and use as many CSS elements as possible. Besides being fully responsive it also uses some JavaScript elements.
                         </p>
                         <button className='project-btn'><a href="https://carolinanonato.github.io/new-mobile-store/" target="_blank">Live Demo</a></button>
                         <button className='project-btn'><a href="https://github.com/carolinanonato/new-mobile-store" target="_blank">Code</a></button>
@@ -37,7 +37,7 @@ export default function Projects() {
                     <div className="card2">
                         <h3 className='project-name'>Peng</h3>
                         <img className="project-image" src={peng} alt="doog food" />
-                        <p className='project-description'>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, neque pariatur unde possimus ullam et molestiae illo obcaecati modi aperiam sint impedit adipisci. Cum omnis recusandae repellat libero vitae. Incidunt?
+                        <p className='project-description'>Peng is a fake mug shop with pictures of penguins. The template can be used for any small business and has a presentation banner, product carousel and an information area.
                         </p>
                         <button className='project-btn'><a href="https://peng.netlify.app/" target="_blank">Live Demo</a></button>
                         <button className='project-btn'><a href="https://github.com/carolinanonato/peng" target="_blank">Code</a></button>
@@ -45,7 +45,7 @@ export default function Projects() {
                     <div className="card2">
                         <h3 className='project-name'>VTubers</h3>
                         <img className="project-image" src={vtubers} alt="doog food" />
-                        <p className='project-description'>Fresh food is the best thing for dogs! They became more cheerful, their fur shinier and they hardly get sick. In this project I created a simple app to calculate the servings of meat, vegetables and carbohydrates your dog needs daily.
+                        <p className='project-description'>A small multi page website made using static generator Eleventy and Handlebars as a template. I'm currently obsessed with Vtubers so I use my hobbies to study the various ways to create a website.
                         </p>
                         <button className='project-btn'><a href="https://vtubersinfo.netlify.app/" target="_blank">Live Demo</a></button>
                         <button className='project-btn'><a href="https://github.com/carolinanonato/vtubers_info" target="_blank">Code</a></button>
@@ -55,7 +55,7 @@ export default function Projects() {
                     <div className="card2">
                         <h3 className='project-name'>Tic-tac-toe</h3>
                         <img className="project-image" src={tictactoe} alt="doog food" />
-                        <p className='project-description'>Fresh food is the best thing for dogs! They became more cheerful, their fur shinier and they hardly get sick. In this project I created a simple app to calculate the servings of meat, vegetables and carbohydrates your dog needs daily.
+                        <p className='project-description'>In addition to websites, I've also created most of the web apps students make to learn Javascript and React: music player, todo list, memory game, exchange rate calculator… and the tic-tac-toe game, one of my favorites!
                         </p>
                         <button className='project-btn'><a href="https://musical-gecko-1c9d2a.netlify.app/#main" target="_blank">Live Demo</a></button>
                         <button className='project-btn'><a href="https://github.com/carolinanonato/dog-fresh-food" target="_blank">Code</a></button>
