@@ -49,3 +49,11 @@ a {
 .item:hover {
     border-bottom: 3px solid #DDC2B9
 }
+
+@media only screen and (max-width: 777px) {
+    .item {
+        font-size: 15px;
+    }
+
+
+}

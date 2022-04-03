@@ -199,3 +199,34 @@
 
 
 }
+
+@media only screen and (max-width: 777px) {
+    .about {
+        flex-direction: column;
+    }
+
+    .info {
+        margin-left: 50px
+    }
+
+    .front-back {
+        flex-direction: column;
+    }
+
+    .frontend {
+        margin-bottom: 30px;
+    }
+
+    .backend {
+        margin-bottom: 50px;
+
+    }
+
+    .skills {
+        margin-left: 100px;
+    }
+
+    .skills-title {
+        margin-top: 50px;
+    }
+}

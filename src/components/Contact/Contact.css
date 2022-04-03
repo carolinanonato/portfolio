@@ -74,3 +74,15 @@ input[type=submit]:hover {
     font-size: 15px;
     padding-left: 5px;
 }
+
+@media only screen and (max-width: 777px) {
+    .contact-title {
+        font-size: 40px;
+        padding-top: 40px;
+    }
+
+    .contact-text {
+        width: 400px;
+    }
+
+}

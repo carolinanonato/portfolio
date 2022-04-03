@@ -48,3 +48,20 @@ button:hover {
     }
 
 }
+
+@media only screen and (max-width: 777px) {
+    .main-title {
+        font-size: 60px;
+    }
+
+    .sub-heading {
+        font-size: 20px;
+    }
+
+    .first-btn {
+        margin-bottom: 100px;
+    }
+
+
+
+}
