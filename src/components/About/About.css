@@ -230,3 +230,49 @@
         margin-top: 50px;
     }
 }
+
+@media only screen and (max-width: 500px) {
+    .info {
+        text-align: center;
+
+    }
+
+    .about-info {
+        text-align: center;
+        margin-left: 0;
+        width: 280px;
+    }
+
+    .about-me {
+        text-align: center;
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    .skills {
+        align-items: center;
+        margin-left: 0;
+    }
+
+    .social-icons {
+        margin-left: 0;
+        margin-bottom: 50px;
+        width: 250px;
+    }
+
+    .set1 {
+        margin-left: 40px;
+    }
+
+    .devicon-typescript-plain {
+        margin-left: 40px;
+    }
+
+    .devicon-react-original {
+        margin-left: 14px;
+    }
+
+    .devicon-python-plain {
+        margin-left: 40px;
+    }
+}
